@@ -18,3 +18,5 @@
 6-hypothesis testing
 
 7-some predictions 
+
+note: to see all the visualizations (graphs) you must run the notebook
